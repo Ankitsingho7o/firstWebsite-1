@@ -1,0 +1,13 @@
+.center{
+     position: relative;
+    
+    margin-top: 40%;
+    margin-bottom: 50%;
+}
+footer{
+padding: 16px 0;
+background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}

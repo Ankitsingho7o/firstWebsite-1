@@ -1,0 +1,19 @@
+
+.cart{     position: relative;
+    padding-top: 1%;
+    padding-bottom: 15%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 6%;
+    margin-bottom: 15.6%;
+    
+}
+
+footer{
+      
+padding: 16px 0;
+background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}
